@@ -1,3 +1,7 @@
+$(window).on('load',function(){
+    $(".loader").fadeOut(3000);
+    $(".cv-main").fadeIn(5000);
+});
 $(document).ready(function(){
     $(".menu").click(function(){
         $(".left-box").toggle(1000);
