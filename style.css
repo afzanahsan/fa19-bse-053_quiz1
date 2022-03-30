@@ -2,19 +2,23 @@
     margin:0px;
     padding:0px;
     box-sizing: border-box;
-    font-family: system-ui;
 }
 
 body{
-    background: #c3c0ba;
+    background: #c3c0ba!important;
 }
 .duration{
     width: 35%; 
     float: left;
+    margin-top: 12px;
 }
 .skill-edu{
     width: 65%; 
     float: left;
+    margin-top: 12px;
+}
+.skill{
+    margin-top: -22px;
 }
 .skills{
     width: 50%; 
@@ -90,7 +94,7 @@ body{
     border: 3px solid #fff; 
 	padding: 7px;
     border-radius: 50%;
-    margin: 20px auto;
+    margin: 13px auto;
 }
 .profile img{
     width: 100%; 
@@ -105,6 +109,7 @@ body{
     color: #fff; 
 	letter-spacing: 1px; 
     font-size: 20px;
+    margin-top: -8px;
 }
 .hr1{
     border: none;
@@ -117,6 +122,7 @@ body{
     color: #fff;
     letter-spacing: 1px;
     padding-top: 12px;
+    margin-top: -15px;
 }
 #progress {
     background: #a5a5a5;
@@ -153,6 +159,7 @@ body{
     padding-top: 10px;
     color: #fff;
     font-weight: 500;
+    margin-top: -15px;
 }
 .p2{
     font-size: 13px; 
@@ -184,6 +191,7 @@ body{
 .interest ul{
     margin-left: 25px;
     color: #fff;
+    margin: -15px 0px 0px -12px;
 }
 .col3{
     text-align: center;
@@ -202,6 +210,7 @@ h1 span{
     letter-spacing: 4px;
     color: #54585d; 
     font-weight: 500;
+    margin: -10px 0px 0px 0px;
 }
 .heading{
     text-transform: uppercase;
@@ -209,6 +218,7 @@ h1 span{
     color: #b40e5c; 
 	letter-spacing: 1px; 
     font-size: 20px;
+    margin: -5px 0px 0px 0px;
 }
 .hr2{
     border: none; 
@@ -219,6 +229,7 @@ h1 span{
 .p5{
     font-weight: 700;
     color: #54585d;
+    margin: -20px 0px 0px 0px;
 }
 .span1{
     font-size: 12px;
